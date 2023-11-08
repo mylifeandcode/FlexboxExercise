@@ -1,0 +1,13 @@
+.flex-container {
+  display: flex; 
+  width: 600px; 
+  border-style: solid;
+}
+
+.item {
+  width: 100px;
+  color: black;
+  background-color: lightblue;
+  border-style: double;
+  border-color: black;
+}

@@ -1,0 +1,7 @@
+.item {
+  width: 100px;
+  color: white;
+  background-color: blue;
+  border-style: double;
+  border-color: black;
+}

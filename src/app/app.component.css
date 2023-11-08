@@ -1,0 +1,34 @@
+.title-banner {
+  color: white;
+  background-color: crimson;
+  padding: 10px;
+  border-radius: 10px;
+  margin-bottom: 14px;
+}
+
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  gap: 2rem;
+  margin: 6px;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
+.flex-item {
+  border-style: solid;
+  border-color: red;
+  padding: 10px;
+  width: 100px;
+  background-color: crimson;
+  color: white;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+.active-route {
+  color: greenyellow;
+}
