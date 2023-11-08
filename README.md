@@ -1,4 +1,5 @@
 # FlexboxExercise
+The purpose of this application is to provide developers with an exercise to CSS Flexbox.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.4.
 
