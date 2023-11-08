@@ -3,9 +3,8 @@
   width: 600px;
   height: 300px; 
   border-style: solid;
-  justify-content: space-evenly;
+  justify-content: flex-start;
   flex-direction: row;
-  flex-wrap: wrap;
 }
 
 .item {
@@ -14,14 +13,4 @@
   border-style: double;
   border-color: black;
   width: 100px;
-}
-
-.item-row-1 {
-  flex-basis: 190px;
-  flex-grow: 1;
-}
-
-.item-row-2 {
-  flex-basis: 170px;
-  flex-grow: 0;
 }
